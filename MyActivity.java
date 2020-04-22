@@ -22,7 +22,7 @@ import java.time.temporal.TemporalAdjuster;
 
 public class MainActivity extends AppCompatActivity {
     ImageView imgv;
-    String indirizzo[]={"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf5U9gSMY3EpBqygzMEGnlnhA5-IICHcCVxtAf_9vo7Dh6PQ7S&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-M77EWvDunVLWbs4Tu9dsvd4SMi5MDJvN6j4O908cKHyEpFAO&usqp=CAU"};
+    String indirizzo[]={"http://....of your image"};
     private Instant Glide;
     Context context = this;
     private ImageView ProfileImage;
